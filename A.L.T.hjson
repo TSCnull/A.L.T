@@ -1,8 +1,8 @@
 displayName: "A.L.T."a legend trail""
 author: "Inn.Null, Nitro.C."
 name: "A.L.T"
-main: "ALT.ALT"
 description: "THERE'S A LEGENDRAY STORY GOING TO START."
 version: "pre-test 0.0.0"
-
-minGameVersion: 146
+minGameVersion: 152
+dependencies:[]
+hidden:false
